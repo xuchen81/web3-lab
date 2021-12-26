@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: SPDX-License
 
+// https://www.youtube.com/watch?v=9Qpi80dQsGU
 pragma solidity ^0.8.0;
 
 import 'hardhat/console.sol';
