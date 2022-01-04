@@ -7,3 +7,4 @@ typechain
 #Hardhat files
 cache
 artifacts
+rust_sandbox/target
